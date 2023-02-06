@@ -1,1 +1,10 @@
-this is hari
+# bin code example
+
+print(bin(15))
+
+
+
+# oct
+
+
+
